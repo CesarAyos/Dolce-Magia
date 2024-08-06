@@ -2,6 +2,7 @@
 
     import { onMount } from 'svelte';
     import { nombre } from './storage.js';
+    
   
     onMount(() => {
     if (!localStorage.getItem('nombre')) {
@@ -33,7 +34,7 @@
           </div>
           <div class="col d-flex justify-content-center">
             <a class="navbar-brand" href="/">
-              <img src="src\public\img\c.png" alt="Logo" width="100" height="100" class="d-inline-block align-text-top">
+              <img src="src/public/img/c.png" alt="Logo" width="100" height="100" class="d-inline-block align-text-top">
             </a>
           </div>
           <div class="col">
