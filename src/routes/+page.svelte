@@ -28,7 +28,9 @@
       <a href="tortas" class="text-decoration-none"><i class="fa-solid fa-cake-candles fa-fade " style="color:white;font-size:100px;text-shadow: 4px 4px 2px rgba(0,0,0,0.6);"></i><p class="text-white fw-bold">Tortas</p></a>
     </div>
     <div class="col-6 mt-2">
-      <a href="contactanos" class="text-decoration-none"><i class="fa-solid fa-mobile-screen fa-fade" style="color:white;font-size:100px;text-shadow: 4px 4px 2px rgba(0,0,0,0.6);"></i><p class="text-white fw-bold">Contactnos</p></a>
+      <a href="https://wa.me/584247072403?text=Hola%20quiero%20más%20información" class="text-decoration-none"><i class="fa-solid fa-mobile-screen fa-fade" style="color:white;font-size:100px;text-shadow: 4px 4px 2px rgba(0,0,0,0.6);"></i><p class="text-white fw-bold">Contactnos</p></a>
     </div>
   </div>
 </div>
+
+
