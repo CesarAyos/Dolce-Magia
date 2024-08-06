@@ -1,13 +1,13 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner mt-2" style="box-shadow: 0px 13px 5px 0px rgba(56,202,217,0.35);">
     <div class="carousel-item active">
-      <img src="src\public\img\desayuno.jpg" class="d-block" style="width: 420px;height: 300px;" alt="...">
+      <img src="\desayuno.jpg" class="d-block" style="width: 420px;height: 300px;" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="src\public\img\manzana.jpg" class="d-block" style="width: 420px;height: 300px;" alt="...">
+      <img src="\manzana.jpg" class="d-block" style="width: 420px;height: 300px;" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="src\public\img\torta.avif" class="d-block"  style="width: 420px;height: 300px;"alt="...">
+      <img src="\torta.avif" class="d-block"  style="width: 420px;height: 300px;"alt="...">
     </div>
   </div>
 </div>
