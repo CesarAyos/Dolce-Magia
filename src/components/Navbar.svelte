@@ -78,3 +78,17 @@
       </div>
     </div>
   </nav>
+
+  <a class="navbar-brand btn-flotante" href="https://wa.me/584247072403?text=Hola%20quiero%20más%20información">
+    <img src="/c.png" alt="Logo" width="100" height="100" class="d-inline-block align-text-top">
+    <p class="fw-bold text-success">Whatsapp</p>
+</a>
+
+  <style>
+    .btn-flotante {
+	position: fixed;
+	bottom: 365px;
+	z-index: 99;
+}
+
+  </style>
