@@ -16,7 +16,6 @@
       nombre.set(localStorage.getItem("nombre"));
       alert("Hola " + localStorage.getItem("nombre"));
     }
-    localStorage.removeItem("nombre");
   });
 </script>
 
